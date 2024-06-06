@@ -49,8 +49,13 @@ By achieving these aims, the project will significantly improve employee retenti
 
 
 ## Data Source
+https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?usp=sharing&ouid=116013626164238245642&rtpof=true&sd=true
 
 ## Tool Used
+- **Ms Excel** [Download here](https://www.microsoft.com)
+- **Microsoft Power BI** [Donwload here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+## Data Transformation and Loading
 
 ## Data Transformation and Loading
 

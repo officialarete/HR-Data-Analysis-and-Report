@@ -59,8 +59,11 @@ https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?us
 
 
 ## Data Analysis and Visualization
-![](Group3.jpg)
-![](HR Data 1)
+![](Transform.jpg)
+
+![](HR Data 1.png)
+
+
 
 
 ## Insights

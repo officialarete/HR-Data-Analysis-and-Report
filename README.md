@@ -62,6 +62,15 @@ https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?us
 ## Data Analysis and Visualization
 ![](HRData1.png)
 
+![](HrData2.png)
+
+![](HrData3.png)
+
+![](HRData4.png)
+
+![](HRData5.png)
+
+
 
 
 

@@ -53,7 +53,7 @@ https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?us
 
 ## Tool Used
 - **Ms Excel** [Download here](https://www.microsoft.com)
-- **Microsoft Power BI** [Donwload here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- **Microsoft Power BI** [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Data Transformation and Loading
 

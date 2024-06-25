@@ -56,7 +56,9 @@ https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?us
 - **Microsoft Power BI** [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Data Transformation and Loading
+The transformation of this data presented some challenges due to its inconsistencies. Initially, I ensured that all blank rows and columns were removed, necessary headers were promoted, conditional columns was created and duplicate values were replaced.
 
+![](HRDATATRANSFORM.jpg)
 
 ## Data Analysis and Visualization
 ![](HRData1.png)

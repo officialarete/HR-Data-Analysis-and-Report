@@ -58,30 +58,9 @@ https://docs.google.com/spreadsheets/d/1Yg1meJ2l2-4_YI-ELaJx9FowuHy8b1TL/edit?us
 ## Data Transformation and Loading
 
 
-
 ## Data Analysis and Visualization
 ![](HRData1.png)
-
-![](HrData2.png)
-
-![](HrData3.png)
-
-![](HRData4.png)
-
-![](HRData5.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+You can view the remaning PDF file from [here](https://drive.google.com/file/d/1Tudn2FfMxW_p-F4Dn5gHvwbNDnCT8t0T/view?usp=sharing)
 
 ## Insights
 
